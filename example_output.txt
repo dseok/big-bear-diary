@@ -1,0 +1,93 @@
+Symptom: Cognitive Problems,
+Present: True,
+Relevant tokens: I couldn't understand anyone. | I couldn't complete any thoughts. | Nor I hear the questions being answered.
+
+
+Symptom: Anhedonia,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Anxious Worry,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Depressed Mood,
+Present: True,
+Relevant tokens: I saw my life ending as a comforting experience.|I wasn't afraid of death one bit.|If I was hit crossing this street, I wouldn't mind one bit.
+
+
+Symptom: Lassitude,
+Present: True,
+Relevant tokens: couldn't walk straight | dosing in and out | words wouldn't come out of my mouth | couldn't understand anyone | couldn't complete any thoughts
+
+
+Symptom: Shame/Guilt,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Domineering,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Affective Lability,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Angry Hostility,
+Present: False,
+Relevant tokens:
+
+
+Symptom: irritability,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Grandiosity,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Entitlement,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Insomnia,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Manic Energy,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Suspiciousness,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Non-planfulness,
+Present: True,
+Relevant tokens: I walked to the pharmacy, and bought as much as I could, or what I thought would be enough.|I walked back to campus.|I proceeded to buy more pills from the campus center.|I went to the bathroom to swallow everything.|I realized this might not be enough.|I kept thinking it might not be enough.|But, I just gave up.|I thought " I'll just take my chances."
+
+
+Symptom: Non-persistence,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Restlessness,
+Present: False,
+Relevant tokens:
+
+
+Symptom: Suicidality,
+Present: True,
+Relevant tokens: I saw my life ending as a comforting experience | I wasn't afraid of death one bit | If I was hit crossing this street, I wouldn't mind one bit | I bought as much as I could | I thought would be enough | I went to the bathroom to swallow everything | This might not be enough | I'll just take my chances | I was hoping they would take out my blood | so it would give me more of a chance at death
