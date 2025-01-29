@@ -1,0 +1,409 @@
+Pretend that you are a trained psychiatrist reading a patient's journal while they are starting a new medication. Your goal is to identify any concerning symptoms that they report. Do not hallucinate. Do not raise false positives or false negatives. 
+
+The following is a list of psychological symptoms and an example phrase or concept that a participant would endorse if they were experiencing that symptom. Learn from this list of symptoms and prepare for a user to ask you about specific symptoms. 
+
+Agoraphobia | I felt like I would be unable to breathe in a small, tight, or enclosed space.
+Agoraphobia | I was afraid of getting trapped in a crowd.
+Agoraphobia | I avoided small, tight, or enclosed spaces.
+Agoraphobia | I avoided small public spaces (such as an office or restaurant).
+Agoraphobia | I was afraid that I would have a panic attack in a small, tight, or enclosed space.
+Antisocial Behavior | I vandalized or defaced public property.
+Antisocial Behavior | I found it enjoyable to hurt animals.
+Antisocial Behavior | I got in trouble with the law.
+Antisocial Behavior | I forged checks or used other people’s credit cards without permission.
+Antisocial Behavior | I stole from someone I knew without their knowledge.
+Antisocial Behavior | I forced someone to have sex with me.
+Antisocial Behavior | I broke into houses, buildings, or cars.
+Antisocial Behavior | I threatened someone with a weapon like a bat, brick, knife, or gun.
+Appetite Loss | My appetite was poor.
+Appetite Loss | I lost a significant amount of weight without even trying.
+Appetite Loss | I did not feel much like eating.
+Binge Eating | Once I started eating, I could not stop.
+Binge Eating | I could not resist eating.
+Binge Eating | I ate a very large amount of food in a short period of time (e.g., within 2 hours).
+Bodily Distress | I had pains in several parts of my body.
+Bodily Distress | My muscles were weak.
+Bodily Distress | I felt something was wrong with my body.
+Bodily Distress | I was bothered by stomach symptoms (diarrhea, nausea, stomach pain etc.)
+Bodily Distress | I experienced chest pain.
+Bodily Distress | I was bothered by several bodily symptoms (e.g., headache, fatigue or stomach problems) for which there was no clear or sufficient medical explanation.
+Body Dissatisfaction | I couldn’t stop comparing my body to those of others.
+Body Dissatisfaction | I wished I could change certain parts of my body.
+Body Dissatisfaction | I was dissatisfied with the shape of my body.
+Body Dissatisfaction | I did not like my weight (the number on the scale).
+Body Focus | I spent a lot of time looking at myself.
+Body Focus | If I passed by a reflective surface (like a window), I checked how I looked.
+Body Focus | I spent a lot of time getting ready before going out.
+Body Focus | I paid a lot of attention to how I look.
+Body Focus | I spent a lot of time grooming myself.
+Callousness | I was not all that concerned with other peoples' needs.
+Callousness | I did not really care how others felt.
+Callousness | I did not have much sympathy for others.
+Callousness | People told me I was coldhearted.
+Callousness | I did not concern myself with helping people.
+Callousness | Some people thought I was uncaring and unfeeling.
+Checking | I felt the urge to check to make sure I really had done something.
+Checking | Even when I was very careful, I worried whether I had done something correctly.
+Checking | I had a nagging doubt that I'd failed to do something important.
+Checking | After I left my home, I worried that I failed to do something.
+Checking | I found myself worrying whether I actually did something or only intended to do it.
+Cleaning | It was difficult for me to touch something that was dirty.
+Cleaning | I worried about getting germs through contact with animals.
+Cleaning | I avoided contact with people because I was worried about germs.
+Cleaning | I felt the need to wash my hands again and again.
+Cleaning | I was obsessed with cleanliness.
+Cleaning | I had to clean myself because I felt contaminated.
+Cognitive Problems | I struggled to think clearly.
+Cognitive Problems | My mind felt mixed up.
+Cognitive Problems | I was easily distracted.
+Cognitive Problems | I had trouble remembering things.
+Cognitive Problems | My thoughts kept jumping from one thing to another.
+Conversion Symptoms | I experienced a sudden sensory loss (e.g., seeing or hearing problems) that doctors could not explain.
+Conversion Symptoms | I could not feel things I touched.
+Conversion Symptoms | I had periods of unexplained deafness.
+Conversion Symptoms | I experienced sudden muscle weakness or paralysis.
+Conversion Symptoms | I was troubled by unexplained seizures or convulsions.
+Conversion Symptoms | I had periods of unexplained blindness.
+Conversion Symptoms | I experienced loss of consciousness or had fainting spells (in the absence of a diagnosed medical disorder)
+Counting | I felt compelled to count things.
+Counting | I avoided numbers that could bring bad luck.
+Counting | I counted things over and over again.
+Counting | I thought that certain numbers were lucky for me.
+Counting | I needed to count to a certain number before starting an activity.
+Dietary Restraint | I tried to eat only healthy foods.
+Dietary Restraint | I tried to limit the number of fatty foods I ate.
+Dietary Restraint | I spent time planning how to reduce my food intake.
+Dietary Restraint | I focused on eating more healthy foods.
+Dietary Restraint | I tried to eat fewer snacks.
+Difficulties Reaching Orgasm | I was unable to reach orgasm.
+Difficulties Reaching Orgasm | I reached orgasm later than I wanted to.
+Difficulties Reaching Orgasm | I found it difficult to reach orgasm.
+Disease Conviction | I had an illness or disease that others dismissed.
+Disease Conviction | I got angry when people did not take my health problems seriously.
+Disease Conviction | It was difficult to find healthcare providers who recognized my illness.
+Disease Conviction | I was frustrated with having to convince others I had a real illness.
+Deceitfulness | I said things that were not true.
+Deceitfulness | I was willing to tell a small lie to make things easier for myself.
+Deceitfulness | I believed it was fine to tell a little lie in order to get out of trouble.
+Deceitfulness | I lied about myself to other people.
+Manipulativeness | I tried to con or cheat other people.
+Manipulativeness | I found it easy to deceive others.
+Manipulativeness | I found it easy to manipulate others.
+Manipulativeness | I made people believe almost anything.
+Disorganization | I was never on time.
+Disorganization | I had trouble planning and keeping to schedules.
+Disorganization | I paid my bills late or missed other important deadlines.
+Disorganization | I lost things that I needed.
+Disorganization | I could have improved on my organizational skills.
+Disorganization | I missed appointments because I forgot about them.
+Disorganization | I was a messy person.
+Dissociation | I had the experience that everything suddenly seemed unfamiliar and I forgot where I was.
+Dissociation | I felt like I no longer existed.
+Dissociation | I had blank spells or periods of missing time.
+Dissociation | I felt that things around me were not real.
+Dissociation | I felt like I was outside of my body.
+Dissociation | I had trouble telling whether something really happened or I just imagined it.
+Anhedonia | Nothing seemed interesting to me.
+Anhedonia | I didn't get excited about very much.
+Anhedonia | I didn't experience the joy and pleasure that most other people do.
+Anxious Worry | I was overwhelmed by anxiety.
+Anxious Worry | I felt nervous and on edge.
+Anxious Worry | I felt very stressed.
+Depressed Mood | I felt hopeless about the future.
+Depressed Mood | I felt worthless.
+Depressed Mood | I felt depressed.
+Depressed Mood | I felt down and discouraged.
+Lassitude | Took a lot of effort to get going.
+Lassitude | I had very little energy.
+Lassitude | I felt worn out.
+Shame/Guilt | I was disgusted with myself.
+Shame/Guilt | I blamed myself for things.
+Shame/Guilt | I was ashamed of myself.
+Domineering | I liked having power.
+Domineering | It was very important for me to take the lead.
+Domineering | I liked being the person who has the authority.
+Domineering | When in a group, I liked to be in control.
+Domineering | Things went best when I told others what to do.
+Domineering | I was the dominant person in my relationships.
+Eccentricity | Many people thought that my behavior was really strange.
+Eccentricity | I thought about things in unusual ways.
+Eccentricity | I said unusual things.
+Eccentricity | People said I am strange.
+Eccentricity | People told me that I was being inappropriate.
+Affective Lability | My moods were intense and unpredictable.
+Affective Lability | My mood changed suddenly for no good reason.
+Affective Lability | I quickly went from being sad to being happy.
+Angry Hostility | I got angry about small things.
+Angry Hostility | I got so angry that I yelled or screamed.
+Angry Hostility | I had angry outbursts.
+Angry Hostility | My temper scared people.
+irritability | I was easily annoyed.
+irritability | I was grouchy.
+irritability | I was very irritable.
+irritability | Minor frustrations really upset me.
+Entitlement | I was selfish.
+Entitlement | I deserved special treatment.
+Entitlement | My needs and wants came first.
+Entitlement | Some people thought I was self-centered.
+Entitlement | I expected to get treated better than others.
+Entitlement | I was jealous of what other people have.
+Excessive Exercise | People told me I exercised too much.
+Excessive Exercise | I exercised more than was good for me.
+Excessive Exercise | I exercised until I felt sick.
+Excessive Exercise | I exercised when I was injured.
+Excessive Exercise | I had to cancel plans in order to get my exercise in.
+Excoriation | My skin picking created problems for me.
+Excoriation | I tried to conceal areas where I had picked at my skin.
+Excoriation | I picked at areas of my skin that I don’t like.
+Exhibitionism | I liked attracting the attention of others.
+Exhibitionism | I enjoyed being the center of attention.
+Exhibitionism | I did things to get others to notice me.
+Exhibitionism | I dressed so as to call attention to myself.
+Exhibitionism | When in public, I liked to stand out.
+Fantasy Proneness | I was prone to daydreaming.
+Fantasy Proneness | My fantasies felt very real to me.
+Fantasy Proneness | I wished I lived in my fantasies instead of real life.
+Fantasy Proneness | My mind wandered far away from the present.
+Fantasy Proneness | My imagination held my attention for hours.
+Fantasy Proneness | I lost myself in a fictional character.
+Food Selectivity | People told me that I was a very picky eater.
+Food Selectivity | I avoided foods because of their smell or texture.
+Food Selectivity | I avoided foods because I did not like their appearance
+Food Selectivity | Many types of food disgusted me.
+Gambling | I was unable to resist the impulse to gamble.
+Gambling | It was hard to stop gambling once I started.
+Gambling | I kept gambling even though it caused problems in my relationships.
+Gambling | I bet more money than I could really afford to lose.
+Gambling | Gambling caused me to go into debt.
+Gaming | I kept gaming, even though it caused problems at work or school.
+Gaming | I turned down social invitations so that I could spend more time gaming.
+Gaming | I looked for ways to make time for gaming.
+Gaming | My mood was negatively affected when I was unable to game as long as I wanted.
+Grandiosity | People admired me.
+Grandiosity | I recognized that I had a lot of special qualities.
+Grandiosity | I enjoyed thinking about my future and the great things it would bring.
+Grandiosity | I enjoyed looking in the mirror.
+Grandiosity | Most people would have liked to be like me.
+Grandiosity | I was very confident in myself around other people.
+Health Anxiety | I spent too much time thinking about illnesses I might have.
+Health Anxiety | Reading articles about disease made me worry about my health.
+Health Anxiety | I worried a lot about my health.
+Health Anxiety | I was afraid that I might suffer from a serious illness
+Hoarding | I found it difficult to throw things away.
+Hoarding | I collected things I did not need.
+Hoarding | My home was so cluttered that it was difficult to get around.
+Hoarding | I could not resist buying something that I did not need.
+Hoarding | My compulsive buying caused me financial problems.
+Hoarding | I kept items that I did not need.
+Hyperdeliberation | I put a lot of thought into ideas before I took any action.
+Hyperdeliberation | I examined every single option before making a selection.
+Hyperdeliberation | Major decisions took months of careful consideration to arrive at a choice.
+Hyperdeliberation | I made decisions only after I had all the information I could get.
+Hyperdeliberation | I carefully weighed out the pros and cons before I made any decision.
+Hyperdeliberation | I took time to consider all possible outcomes before making any decision.
+Hypervigilance | I felt like I was in danger.
+Hypervigilance | I felt on guard and on edge.
+Hypervigilance | I was easily startled.
+Hypervigilance | I felt that the world is a dangerous place.
+Hypervigilance | I was watchful for danger.
+Hypervigilance | I was concerned that other persons might bring me harm.
+Insomnia | I slept very poorly.
+Insomnia | I had trouble staying asleep.
+Insomnia | I woke up early and could not get back to sleep.
+Insomnia | I had trouble falling asleep.
+Low Sexual Arousal | It was difficult for me to get sexually aroused.
+Low Sexual Arousal | It was difficult for me to stay sexually aroused once sexual activity had started.
+Low Sexual Arousal | I did not experience enough sexual arousal (penile erection or vaginal lubrication) to enjoy sex.
+Low Sexual Interest | I had little or no interest in sexual activity.
+Low Sexual Interest | I felt little desire for sexual activity
+Low Sexual Interest | I felt uninterested during sexual activity
+Manic Energy | Others noticed that I was unusually excited or up.
+Manic Energy | I felt a lot more hyper or active than usual.
+Manic Energy | I was much more talkative than usual.
+Manic Energy | I had so much energy that others couldn’t keep up with me.
+Manic Energy | I felt like I could go for days without sleeping.
+Manic Energy | I felt like I could keep going and going without ever getting tired.
+Manic Energy | I had much more energy than usual.
+Cynicism | People were basically selfish with little concern for others.
+Cynicism | Others could not be trusted.
+Cynicism | I believed that if you are not careful, other people will take advantage of you.
+Cynicism | Most people were just out for themselves.
+Suspiciousness | Some people were out to harm me.
+Suspiciousness | People talked behind my back.
+Suspiciousness | I was very suspicious of other people.
+Suspiciousness | I felt that other persons were acting against me.
+Muscle Building | It was important to me to build muscle mass and eliminate body fat.
+Muscle Building | Bulking up muscle while staying lean was a main fitness goal for me.
+Muscle Building | I wanted well-defined stomach muscles.
+Muscle Building | Being muscular was very important to me.
+Muscle Building | I used medicines or supplements to bulk up.
+Nightmares | Nightmares caused me to wake up at night.
+Nightmares | I had a recurring bad dream.
+Nightmares | I had a dream so distressing that it continued to affect me after waking.
+Non-persistence | I quit working (my job, homework, or housework) before I was finished.
+Non-persistence | I could not return to a task after getting distracted.
+Non-persistence | I quit tasks that became too challenging.
+Non-persistence | I was unable to concentrate on a task when it was uninteresting to me.
+Non-persistence | I became disinterested in tasks easily.
+Non-planfulness | I made decisions quickly without thinking them through.
+Non-planfulness | I said things without thinking.
+Non-planfulness | I acted on impulse.
+Non-planfulness | I did something spontaneous that I later regretted.
+Non-planfulness | I failed to consider the consequences of an action.
+NSSI | I bit myself on purpose.
+NSSI | I hurt myself on purpose.
+NSSI | I felt an urge to hurt myself (cut, burn, bite, etc.).
+NSSI | I cut myself on purpose.
+NSSI | At times, I just wanted to feel pain.
+NSSI | I intentionally scratched my skin so severely that it started bleeding.
+Oppositionality | I enjoyed rebelling against authority figures (e.g., police, teachers, bosses).
+Oppositionality | Life felt too short to follow other peoples' rules.
+Oppositionality | I was a rule breaker.
+Oppositionality | I didn't care whether my behavior was considered proper or not.
+Oppositionality | I didn’t pay much attention to social standards of behavior.
+Oppositionality | I did things on purpose that were against the rules.
+Panic | I felt dizzy or lightheaded.
+Panic | I was trembling or shaking.
+Panic | My heart was racing or pounding.
+Panic | I was afraid that I might be having a heart attack.
+Panic | I was so worked up I thought I might die.
+Paraphilias | My sexual fantasies strained my relationships.
+Paraphilias | I found watching unsuspecting people who were naked, masturbating, or having sex sexually arousing.
+Paraphilias | I found exposing my genitals to a stranger sexually arousing.
+Paraphilias | I found touching or rubbing against a stranger sexually arousing.
+Paraphilias | I found sexual activity with someone unconscious (e.g., asleep or passed out from alcohol or a drug) sexually arousing.
+Perfectionism | People told me that I was too perfectionistic.
+Perfectionism | My desire for things to be flawless kept me from getting everything done.
+Perfectionism | I strove for perfection, even when others said that I should move on.
+Perfectionism | I felt that my work must be flawless.
+Perfectionism | I demanded perfection from myself.
+Premature Orgasm | During sex, I usually climaxed very quickly. 
+Premature Orgasm | During sex, I consciously tried to delay orgasm so I could last longer.
+Premature Orgasm | I reached orgasm sooner than I wanted to.
+Premature Orgasm | I was unable to control when I reached orgasm.
+Problematic Shopping | I found it hard to resist the urge to shop.
+Problematic Shopping | I bought much more than I needed.
+Problematic Shopping | I kept my shopping a secret.
+Problematic Shopping | I spent more money shopping than I could afford.
+Purging | I vomited to control my weight.
+Purging | I used certain medications (e.g. laxatives, diuretics) to lose weight.
+Purging | I considered using syrup of ipecac, enemas, or suppositories to lose weight.
+Delusions | I could control things with my mind.
+Delusions | I thought it may be possible for other people to read my mind, or for me to read other's minds.
+Delusions | I believed other people could actually hear my thoughts.
+Delusions | Special messages were written in papers or announced on TV just for me.
+Delusions | I thought I was the only one chosen by God for a special role.
+Hallucinations | I experienced strange sights or sounds.
+Hallucinations | I smelled things that were not actually there.
+Hallucinations | I saw things that were not really there.
+Hallucinations | I saw a person but then realized it was just a shadow.
+Hallucinations | I heard things that no one else could hear.
+Hallucinations | I had a sensation that something was crawling under my skin.
+Restlessness | I felt restless when I had to sit still for more than ten minutes.
+Restlessness | I had a hard time staying in my seat when I was supposed to be seated.
+Restlessness | I felt the need to stand up when I should have been sitting down.
+Restlessness | I avoided activities where I would need to sit down for long.
+Restlessness | I had trouble sitting still.
+Restricted Affectivity | I hid my emotions.
+Restricted Affectivity | I hardly showed any feelings.
+Restricted Affectivity | I didn't respond to things that other people found emotional.
+Restricted Affectivity | People told me that I do not show emotions.
+Restricted Affectivity | I didn't express my emotions.
+Restricted Eating | People told me that I did not eat enough.
+Restricted Eating | I skipped two meals in a row.
+Restricted Eating | I went a long time without eating.
+Restricted Eating | I made excuses to avoid eating.
+Rigidity | I refused to budge as a matter of principle, even on small matters.
+Rigidity | I continued to do things the same way, even though my approach clearly wasn’t working.
+Rigidity | I was very set in my ways.
+Rigidity | I refused to compromise because I knew I was right.
+Rigidity | I was rigid and inflexible in my approach to doing things.
+Risk Aversion | I went out of my way to avoid risks.
+Risk Aversion | I was cautious.
+Risk Aversion | I preferred to do things the safest way possible.
+Risk Aversion | I did not like taking chances.
+Risk Aversion | I was very cautious about taking risks.
+Risk Aversion | I avoided taking risks at all costs.
+Risk Taking | I was a thrill-seeker.
+Risk Taking | People would describe me as a risk-taker.
+Risk Taking | I enjoyed activities that were a little bit dangerous.
+Risk Taking | Taking risks made me feel alive.
+Risky Sex | I engaged in sexual activities that I later regretted.
+Risky Sex | I engaged in unprotected sex.
+Risky Sex | I used sex to relieve negative feelings (e.g., anxiety, sadness, anger).
+Risky Sex | I engaged in risky sexual activity.
+Romantic Disinterest | I found romantic relationships to be tiresome.
+Romantic Disinterest | Romantic relationships seemed like a hassle to me.
+Romantic Disinterest | I felt that I did not want to be in a close relationship.
+Romantic Disinterest | I had no interest in romantic relationships.
+Romantic Disinterest | I was happiest when I was in a romantic relationship.
+Sex-Related Substance Use | Sexual activity was even more enjoyable for me when I was intoxicated/high.
+Sex-Related Substance Use | I used substances to reduce anxiety during sexual activity.
+Sex-Related Substance Use | I used substances to make my partner more appealing.
+Sex-Related Substance Use | I used substances during sex to encourage my partner to use substances too.
+Sexual Distress | I felt guilty about sexual difficulties
+Sexual Distress | I was worried about my sex life.
+Sexual Distress | I felt sexually inadequate.
+Sexual Distress | I was unhappy about my sexual performance.
+Sexual Pain | I tensed up during sexual activity due to pain.
+Sexual Pain | I found sex physically uncomfortable.
+Sexual Pain | It was painful for me to have (or try to have) penetrative vaginal or anal intercourse.
+Social Aggression | I mocked people.
+Social Aggression | I tried to break up someone else's friendship or romantic relationship.
+Social Aggression | I insulted others.
+Social Aggression | People said I could be a bully.
+Social Aggression | I spread rumors about other people.
+Social Aggression | I taunted others.
+Social Aloofness | When I had the chance, I chose to be alone rather than with other people.
+Social Aloofness | Interacting with others was not very important to me.
+Social Aloofness | I did not feel like spending time with people.
+Social Aloofness | I was happiest when I was alone.
+Social Aloofness | I preferred to stay home than to go to a party.
+Social Anxiety | I felt shy around other people.
+Social Anxiety | I had difficulty making eye contact with others.
+Social Anxiety | I was uncomfortable meeting new people.
+Social Anxiety | I avoided performing or giving a talk in front of others.
+Social Anxiety | I got anxious when others were watching me.
+Somatic Preoccupation | I paid close attention to how my body feels.
+Somatic Preoccupation | I noticed small changes to how my body feels.
+Somatic Preoccupation | I was acutely aware of what was going on with my body.
+Somatic Preoccupation | I could feel changes in my body.
+Somatic Preoccupation | I was sensitive to changes in my body.
+Animal-Insect Phobia | I was afraid of spiders.
+Animal-Insect Phobia | I was fearful of rats or mice.
+Animal-Insect Phobia | I was afraid of getting stung or bitten.
+Animal-Insect Phobia | I avoided areas where there might be snakes or lizards.
+Animal-Insect Phobia | The sight of an insect (e.g., a cockroach) upset me.
+Blood-Injection Phobia | Seeing something gory made me woozy.
+Blood-Injection Phobia | The sight of a needle upset me.
+Blood-Injection Phobia | I felt faint at the sight of blood.
+Situational Phobias | I was afraid of flying.
+Situational Phobias | I was afraid of heights.
+Situational Phobias | I became very anxious during a storm.
+Situational Phobias | I was afraid of the dark.
+Submissiveness | I allowed people to take advantage of me.
+Submissiveness | I had trouble standing up for myself.
+Submissiveness | I had a hard time asserting myself to others.
+Submissiveness | Others could easily take advantage of me because I was too passive.
+Suicidality | I thought a lot about death.
+Suicidality | I worked on a plan to kill myself.
+Suicidality | I thought about killing myself.
+Suicidality | I tried to kill myself.
+Trauma Reactions | I avoided places that reminded me of something bad that happened.
+Trauma Reactions | I avoided people who might bring back bad memories.
+Trauma Reactions | I had repeated memories of a traumatic event.
+Trauma Reactions | I suddenly felt as if a traumatic event were actually happening again.
+Trauma Reactions | My mind was flooded with troubling images of a bad experience.
+Trichotillomania | I was embarrassed because I pulled my hair.
+Trichotillomania | I pulled out hairs that were a different color or texture.
+Trichotillomania | I felt an urge to pull my hair.
+Well-being | I was proud of myself.
+Well-being | I felt cheerful.
+Well-being | I felt optimistic.
+Well-being | I felt good about myself.
+Well-being | I felt motivated.
+Workaholism | I was something of a workaholic.
+Workaholism | Even on days off, I found myself thinking about work.
+Workaholism | I was so focused on being productive that I had less time for friends and family.
+Workaholism | My work success was the most valuable aspect of my life.
+Workaholism | People told me that I work too much.
